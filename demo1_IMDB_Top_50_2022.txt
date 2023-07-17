@@ -1,0 +1,599 @@
+Feature Film,
+Released between 2022-01-01 and 2022-12-31
+(Sorted by Popularity Ascending) : 
+1.
+Movie: Avatar: The Way of Water
+Genre: 
+Action, Adventure, Fantasy            
+Description: 
+UA
+|
+192 min
+|
+
+Action, Adventure, Fantasy            
+
+2.
+Movie: X
+Genre: 
+Horror, Mystery, Thriller            
+Description: 
+R
+|
+105 min
+|
+
+Horror, Mystery, Thriller            
+
+3.
+Movie: The Blackening
+Genre: 
+Comedy, Horror, Thriller            
+Description: 
+R
+|
+97 min
+|
+
+Comedy, Horror, Thriller            
+
+4.
+Movie: Don't Worry Darling
+Genre: 
+Drama, Thriller            
+Description: 
+A
+|
+123 min
+|
+
+Drama, Thriller            
+
+5.
+Movie: Top Gun: Maverick
+Genre: 
+Action, Drama            
+Description: 
+UA
+|
+130 min
+|
+
+Action, Drama            
+
+6.
+Movie: Babylon
+Genre: 
+Comedy, Drama, History            
+Description: 
+18
+|
+189 min
+|
+
+Comedy, Drama, History            
+
+7.
+Movie: A Man Called Otto
+Genre: 
+Comedy, Drama            
+Description: 
+UA
+|
+126 min
+|
+
+Comedy, Drama            
+
+8.
+Movie: Talk to Me
+Genre: 
+Horror, Thriller            
+Description: 
+R
+|
+94 min
+|
+
+Horror, Thriller            
+
+9.
+Movie: Sisu
+Genre: 
+Action, War            
+Description: 
+A
+|
+91 min
+|
+
+Action, War            
+
+10.
+Movie: The Menu
+Genre: 
+Comedy, Horror, Thriller            
+Description: 
+A
+|
+107 min
+|
+
+Comedy, Horror, Thriller            
+
+11.
+Movie: Everything Everywhere All at Once
+Genre: 
+Action, Adventure, Comedy            
+Description: 
+A
+|
+139 min
+|
+
+Action, Adventure, Comedy            
+
+12.
+Movie: The Batman
+Genre: 
+Action, Crime, Drama            
+Description: 
+UA
+|
+176 min
+|
+
+Action, Crime, Drama            
+
+13.
+Movie: Bullet Train
+Genre: 
+Action, Comedy, Thriller            
+Description: 
+A
+|
+127 min
+|
+
+Action, Comedy, Thriller            
+
+14.
+Movie: Puss in Boots: The Last Wish
+Genre: 
+Animation, Adventure, Comedy            
+Description: 
+U
+|
+102 min
+|
+
+Animation, Adventure, Comedy            
+
+15.
+Movie: M3GAN
+Genre: 
+Horror, Sci-Fi, Thriller            
+Description: 
+A
+|
+102 min
+|
+
+Horror, Sci-Fi, Thriller            
+
+16.
+Movie: Black Adam
+Genre: 
+Action, Adventure, Fantasy            
+Description: 
+UA
+|
+125 min
+|
+
+Action, Adventure, Fantasy            
+
+17.
+Movie: The Whale
+Genre: 
+Drama            
+Description: 
+A
+|
+117 min
+|
+
+Drama            
+
+18.
+Movie: Scream
+Genre: 
+Horror, Mystery, Thriller            
+Description: 
+A
+|
+114 min
+|
+
+Horror, Mystery, Thriller            
+
+19.
+Movie: Triangle of Sadness
+Genre: 
+Comedy, Drama            
+Description: 
+A
+|
+147 min
+|
+
+Comedy, Drama            
+
+20.
+Movie: Pearl
+Genre: 
+Drama, Horror, Thriller            
+Description: 
+R
+|
+103 min
+|
+
+Drama, Horror, Thriller            
+
+21.
+Movie: Fall
+Genre: 
+Thriller            
+Description: 
+PG-13
+|
+107 min
+|
+
+Thriller            
+
+22.
+Movie: Biosphere
+Genre: 
+Comedy, Drama, Mystery            
+Description: 
+106 min
+|
+
+Comedy, Drama, Mystery            
+
+23.
+Movie: The Banshees of Inisherin
+Genre: 
+Comedy, Drama            
+Description: 
+A
+|
+114 min
+|
+
+Comedy, Drama            
+
+24.
+Movie: Barbarian
+Genre: 
+Horror, Mystery, Thriller            
+Description: 
+A
+|
+102 min
+|
+
+Horror, Mystery, Thriller            
+
+25.
+Movie: Nope
+Genre: 
+Horror, Mystery, Sci-Fi            
+Description: 
+A
+|
+130 min
+|
+
+Horror, Mystery, Sci-Fi            
+
+26.
+Movie: The Fabelmans
+Genre: 
+Drama            
+Description: 
+UA
+|
+151 min
+|
+
+Drama            
+
+27.
+Movie: Glass Onion
+Genre: 
+Comedy, Crime, Drama            
+Description: 
+UA 16+
+|
+139 min
+|
+
+Comedy, Crime, Drama            
+
+28.
+Movie: Aftersun
+Genre: 
+Drama            
+Description: 
+R
+|
+102 min
+|
+
+Drama            
+
+29.
+Movie: Where the Crawdads Sing
+Genre: 
+Drama, Mystery, Romance            
+Description: 
+UA
+|
+125 min
+|
+
+Drama, Mystery, Romance            
+
+30.
+Movie: Suzume no Tojimari
+Genre: 
+Animation, Action, Adventure            
+Description: 
+PG
+|
+122 min
+|
+
+Animation, Action, Adventure            
+
+31.
+Movie: Roald Dahl's Matilda the Musical
+Genre: 
+Comedy, Drama, Family            
+Description: 
+UA 7+
+|
+117 min
+|
+
+Comedy, Drama, Family            
+
+32.
+Movie: Thor: Love and Thunder
+Genre: 
+Action, Adventure, Comedy            
+Description: 
+UA
+|
+118 min
+|
+
+Action, Adventure, Comedy            
+
+33.
+Movie: Smile
+Genre: 
+Horror, Mystery, Thriller            
+Description: 
+A
+|
+115 min
+|
+
+Horror, Mystery, Thriller            
+
+34.
+Movie: Shattered
+Genre: 
+Thriller            
+Description: 
+R
+|
+92 min
+|
+
+Thriller            
+
+35.
+Movie: The Unbearable Weight of Massive Talent
+Genre: 
+Action, Comedy, Crime            
+Description: 
+A
+|
+107 min
+|
+
+Action, Comedy, Crime            
+
+36.
+Movie: Weird: The Al Yankovic Story
+Genre: 
+Comedy, Crime, Music            
+Description: 
+108 min
+|
+
+Comedy, Crime, Music            
+
+37.
+Movie: Jurassic World: Dominion
+Genre: 
+Action, Adventure, Sci-Fi            
+Description: 
+UA
+|
+147 min
+|
+
+Action, Adventure, Sci-Fi            
+
+38.
+Movie: The Gray Man
+Genre: 
+Action, Thriller            
+Description: 
+UA 16+
+|
+122 min
+|
+
+Action, Thriller            
+
+39.
+Movie: The Northman
+Genre: 
+Action, Adventure, Drama            
+Description: 
+R
+|
+137 min
+|
+
+Action, Adventure, Drama            
+
+40.
+Movie: Amsterdam
+Genre: 
+Comedy, Drama, History            
+Description: 
+UA 16+
+|
+134 min
+|
+
+Comedy, Drama, History            
+
+41.
+Movie: Im Westen nichts Neues
+Genre: 
+Action, Drama, War            
+Description: 
+A
+|
+148 min
+|
+
+Action, Drama, War            
+
+42.
+Movie: The Woman King
+Genre: 
+Action, Drama, History            
+Description: 
+UA
+|
+135 min
+|
+
+Action, Drama, History            
+
+43.
+Movie: Black Panther: Wakanda Forever
+Genre: 
+Action, Adventure, Drama            
+Description: 
+UA
+|
+161 min
+|
+
+Action, Adventure, Drama            
+
+44.
+Movie: Terrifier 2
+Genre: 
+Horror            
+Description: 
+18
+|
+138 min
+|
+
+Horror            
+
+45.
+Movie: Doctor Strange in the Multiverse of Madness
+Genre: 
+Action, Adventure, Fantasy            
+Description: 
+UA
+|
+126 min
+|
+
+Action, Adventure, Fantasy            
+
+46.
+Movie: Bones and All
+Genre: 
+Drama, Horror, Romance            
+Description: 
+18
+|
+131 min
+|
+
+Drama, Horror, Romance            
+
+47.
+Movie: An Cailín Ciúin
+Genre: 
+Drama            
+Description: 
+PG-13
+|
+95 min
+|
+
+Drama            
+
+48.
+Movie: Sanctuary
+Genre: 
+Drama, Thriller            
+Description: 
+R
+|
+96 min
+|
+
+Drama, Thriller            
+
+49.
+Movie: Uncharted
+Genre: 
+Action, Adventure            
+Description: 
+UA
+|
+116 min
+|
+
+Action, Adventure            
+
+50.
+Movie: Prey
+Genre: 
+Action, Adventure, Drama            
+Description: 
+16
+|
+100 min
+|
+
+Action, Adventure, Drama            
+
